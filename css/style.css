@@ -8,8 +8,10 @@
 /* header part start */
 .container {
   background-image: url("../images/banner/banner2.png");
+  background-repeat: no-repeat;
   width: 100%;
   height: 809px;
+
 }
 .banner-blog {
   text-align: right;
