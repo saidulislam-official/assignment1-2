@@ -45,7 +45,8 @@
   height: 2414px;
   margin-left: 10%;
   margin-right: 10%;
-  /* background-color: #f15b22; */
+  align-items: center;
+  background-color: #f15b22;
 }
 .container-1 {
   display: flex;
