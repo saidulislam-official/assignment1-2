@@ -103,3 +103,28 @@
   margin-top: 130px;
   margin-bottom: 130px;
 }
+.image-blog {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.image-blog h2 {
+  width: 459px;
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+}
+.image-blog button {
+  margin-top: 24px;
+  width: 160px;
+  height: 64px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #fff;
+
+  color: #f15b22;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: normal;
+  border: none;
+}
